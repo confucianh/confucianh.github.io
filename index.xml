@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>无神，亦有信仰</title>
+    <link>https://confucianh.github.io/</link>
+    <description>Recent content on 无神，亦有信仰</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Feb 2020 23:46:00 -0800</lastBuildDate>
+    
+        <atom:link href="https://confucianh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>为何修“儒”</title>
+      <link>https://confucianh.github.io/2020/02/my-first-post/</link>
+      <pubDate>Mon, 03 Feb 2020 23:46:00 -0800</pubDate>
+      
+      <guid>https://confucianh.github.io/2020/02/my-first-post/</guid>
+      <description>时间间隔久远，可能大家也都不是很知道什么是“儒”了。更有可能的，经过了近百年的黑化，大家谈儒色变，敬儒远之。然而，作为中华民族的支柱，“儒”</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://confucianh.github.io/about/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://confucianh.github.io/about/</guid>
+      <description>这么多年，常常有各式各样的朋友谈起来中国，不乏蔑视，也不乏夸赞的。虽然充满了对中国的不了解，但是非常一致的，他们都认为中华民族是一个没有信仰</description>
+    </item>
+    
+  </channel>
+</rss>
